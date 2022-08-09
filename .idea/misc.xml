@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_item.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/bt_enable.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_baseline_loop_24.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_baseline_skip_previous_24.xml" value="0.1405" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_player.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/fragment_media_list.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_player.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_sound.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
